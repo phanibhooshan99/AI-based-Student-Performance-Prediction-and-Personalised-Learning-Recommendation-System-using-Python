@@ -1,0 +1,34 @@
+{
+  "regression": {
+    "LinearRegression": {
+      "r2": 0.9407,
+      "mae": 2.427
+    },
+    "RandomForest": {
+      "r2": 0.9074,
+      "mae": 3.175
+    },
+    "GradientBoosting": {
+      "r2": 0.9322,
+      "mae": 2.589
+    }
+  },
+  "classification": {
+    "LogisticRegression": {
+      "accuracy": 0.9033,
+      "f1_macro": 0.8756
+    },
+    "RandomForest": {
+      "accuracy": 0.8733,
+      "f1_macro": 0.8279
+    },
+    "GradientBoosting": {
+      "accuracy": 0.91,
+      "f1_macro": 0.8838
+    }
+  },
+  "best": {
+    "regression": "LinearRegression",
+    "classification": "GradientBoosting"
+  }
+}

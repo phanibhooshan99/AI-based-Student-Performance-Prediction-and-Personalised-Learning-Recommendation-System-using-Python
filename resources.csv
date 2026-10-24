@@ -1,0 +1,31 @@
+resource_id,topic,difficulty,title,type,url
+R01,mathematics,beginner,Khan Academy - Algebra Basics,course,https://www.khanacademy.org
+R02,mathematics,beginner,Khan Academy - Arithmetic Practice,exercises,https://www.khanacademy.org
+R03,mathematics,intermediate,Khan Academy - Calculus Foundations,course,https://www.khanacademy.org
+R04,mathematics,intermediate,Paul's Online Math Notes - Algebra and Calculus,notes,https://tutorial.math.lamar.edu
+R05,mathematics,advanced,MIT OpenCourseWare - Linear Algebra,video course,https://ocw.mit.edu
+R06,mathematics,advanced,Brilliant - Advanced Problem Solving,interactive,https://brilliant.org
+R07,programming,beginner,freeCodeCamp - Python for Beginners,course,https://www.freecodecamp.org
+R08,programming,beginner,W3Schools - Python Tutorial,tutorial,https://www.w3schools.com
+R09,programming,intermediate,Real Python - Intermediate Python Tutorials,tutorial,https://realpython.com
+R10,programming,intermediate,HackerRank - Python Practice,exercises,https://www.hackerrank.com
+R11,programming,advanced,LeetCode - Medium and Hard Problems,exercises,https://leetcode.com
+R12,programming,advanced,Exercism - Python Mentored Track,mentored practice,https://exercism.org
+R13,data_structures,beginner,GeeksforGeeks - Data Structures Basics,tutorial,https://www.geeksforgeeks.org
+R14,data_structures,beginner,VisuAlgo - Visual Data Structures,interactive,https://visualgo.net
+R15,data_structures,intermediate,NeetCode - Data Structures Roadmap,video course,https://neetcode.io
+R16,data_structures,intermediate,CS50 - Data Structures Lectures,video course,https://cs50.harvard.edu
+R17,data_structures,advanced,Coursera - Algorithms Specialization,course,https://www.coursera.org
+R18,data_structures,advanced,Codeforces - Competitive Problem Sets,exercises,https://codeforces.com
+R19,databases,beginner,SQLBolt - Interactive SQL Lessons,interactive,https://sqlbolt.com
+R20,databases,beginner,W3Schools - SQL Tutorial,tutorial,https://www.w3schools.com
+R21,databases,intermediate,Mode - SQL Tutorial,tutorial,https://mode.com
+R22,databases,intermediate,SQLZoo - Practice Queries,exercises,https://sqlzoo.net
+R23,databases,advanced,CMU Database Systems Lectures,video course,https://15445.courses.cs.cmu.edu
+R24,databases,advanced,PostgreSQL Official Documentation,docs,https://www.postgresql.org
+R25,statistics,beginner,Khan Academy - Statistics and Probability,course,https://www.khanacademy.org
+R26,statistics,beginner,StatQuest - Statistics Fundamentals,video course,https://statquest.org
+R27,statistics,intermediate,Kaggle Learn - Intro to Statistics and Data,course,https://www.kaggle.com/learn
+R28,statistics,intermediate,Seeing Theory - Visual Probability,interactive,https://seeing-theory.brown.edu
+R29,statistics,advanced,MIT OpenCourseWare - Probability and Statistics,video course,https://ocw.mit.edu
+R30,statistics,advanced,Kaggle Competitions - Applied Statistics Practice,practice,https://www.kaggle.com
